@@ -1,4 +1,4 @@
-## make new project
+## make new project dart
 
 in ```cmd``` type ```dart create project_name``` 
 
